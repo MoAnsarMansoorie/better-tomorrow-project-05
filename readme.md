@@ -1,8 +1,6 @@
 # Crush Your Competition
 
-![badge](https://img.shields.io/badge/<Project-05>-<Better-Tomorrow>-<yellowgreen>)
-
-[Link of deploy live project]()
+[Link of deploy live project](https://bettertomorrowpage.netlify.app/)
 
 ![LCO](./view05.png)
 
